@@ -2,8 +2,8 @@
 
 A web app that provides live cryptocurrency prices, market trends, and crypto-related news.  
 - **Frontend**: React.js  
-- **Backend**: Node.js with Express.js  
-- **APIs**: CoinGecko API for crypto prices, CryptoNews API for news  
+- **Backend**: Node.js
+- **APIs**: CoinGecko API for crypto prices, cryptocompare API for news  
 
 ## Features
 - Live cryptocurrency prices and trends.
@@ -48,3 +48,8 @@ A web app that provides live cryptocurrency prices, market trends, and crypto-re
   ]
 }
 ```
+### Output
+
+![Sample Image](output/prices.png)
+![Sample Image](output/news.png)
+
